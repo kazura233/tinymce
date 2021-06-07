@@ -1,0 +1,19 @@
+{
+  "name": "@kazura/tinymce",
+  "version": "5.8.1",
+  "description": "tinymce",
+  "keywords": [
+    "tinymce"
+  ],
+  "homepage": "https://github.com/kazura233/tinymce",
+  "repository": "https://github.com/kazura233/tinymce.git",
+  "bugs": "https://github.com/kazura233/tinymce/issues",
+  "author": "kazura233 <kazira233@gmail.com>",
+  "license": "LGPL-2.1",
+  "main": "tinymce.min.js",
+  "types": "tinymce.d.js",
+  "npmName": "@kazura233/tinymce",
+  "publishConfig": {
+    "access": "public"
+  }
+}
